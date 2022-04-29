@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)]( www.linkedin.com/in/bandaru-lakshmi-sahithi-6baa791a5)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Linkedin Badge](https://img.shields.io/badge/-SahithiBandaru99-blue?style=flat-square&logo=Linkedin&logoColor=white&link= www.linkedin.com/in/bandaru-lakshmi-sahithi-6baa791a5/)]( www.linkedin.com/in/bandaru-lakshmi-sahithi-6baa791a5)
+[![Website Badge](https://img.shields.io/badge/WebSite-SahithiBandaru99-green)](https://www.akash)
 
 
 I'm
@@ -14,7 +14,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SahithiBandaru99&column=7"/>
   </a>
 </div>
 
