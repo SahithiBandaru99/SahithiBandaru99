@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](n: www.linkedin.com/in/bandaru-lakshmi-sahithi-6baa791a5)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)]( www.linkedin.com/in/bandaru-lakshmi-sahithi-6baa791a5)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 
 
