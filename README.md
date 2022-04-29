@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-SahithiBandaru99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bandaru-lakshmi-sahithi-6baa791a5/)]( www.linkedin.com/in/bandaru-lakshmi-sahithi-6baa791a5)
-[![Website Badge](https://img.shields.io/badge/WebSite-SahithiBandaru99-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-SahithiBandaru99-green)](https://sahithibandaru99.github.io/MyProfile/)
 
 
 I'm
